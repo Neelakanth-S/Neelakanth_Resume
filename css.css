@@ -330,9 +330,7 @@ header .follow a:hover{
 .about .row-2 .skills .progress:nth-child(5) .bar span {
     width: 70%;
 }
-.about .row-2 .skills .progress:nth-child(6) .bar span {
-    width: 70%;
-}
+
 
 .about .row-2 .box-container {
     flex: 1 1 40rem;
